@@ -2,11 +2,7 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlodHFhcXRwbGk3am1lNmM0YmxrbWhkcG1lYTZhZTFtOGIxb3cwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif"  />
 </div>
 
-###
-
 <h1 align="center">Hi, I'm Diego</h1>
-I'm a **Software Engineering** major at **ITSON**.🐴
-###
 
 ## 🚀 Proyectos destacados
 - [Clon de Spotify](https://github.com/bortcrab/clon-spotify)  
@@ -20,8 +16,6 @@ I'm a **Software Engineering** major at **ITSON**.🐴
   <img src="https://streak-stats.demolab.com?user=bortcrab&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bortcrab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
@@ -53,8 +47,6 @@ I'm a **Software Engineering** major at **ITSON**.🐴
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
@@ -62,8 +54,6 @@ I'm a **Software Engineering** major at **ITSON**.🐴
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
@@ -74,18 +64,12 @@ I'm a **Software Engineering** major at **ITSON**.🐴
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bortcrab/bortcrab/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/r7jbmhqr9mita7ljj5j3wc5ui">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=r7jbmhqr9mita7ljj5j3wc5ui&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
