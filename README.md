@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy Diego 👋
 
-<!--
-**bortcrab/bortcrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Software** en el **ITSON**.🐴
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
+- [Clon de Spotify](https://github.com/bortcrab/clon-spotify)  
+  Un clon de la plataforma de música **Spotify**, con autenticación de usuario, gestión de playlists, búsqueda de canciones y más.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Wordle](https://github.com/bortcrab/wordle)  
+  Un clon del popular juego **Wordle**, donde puedes adivinar palabras en un número limitado de intentos.
+
+## 🔥 Lenguajes y tecnologías que utilizo
+- Java
+- SvelteKit
+- Microservicios
+- JavaScript
+- HTML, CSS
+
+## 💾 Bases de datos que manejo
+- **MySQL**  
+- **SQL** (No sé si es diferente a MySQL, pero manejo ambas)
+- **MongoDB**
+- **Firebase**
+
+## 📊 Mis estadísticas de GitHub
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bortcrab&show_icons=true&theme=radical)
+
+## 🔥 Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bortcrab&layout=compact&theme=radical)
+
+## 📫 Cómo contactarme
+- [Correo electrónico](mailto:bortcrab@gmail.com)
+
+---
