@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Diego</h1>
 
 <h2>Pinned Projects 📌</h2>
+
 - [Bortify](https://github.com/bortcrab/Bortify)  
   A Spotify clone for Bortlovers built on Svelte.
-
 - [Ecodle](https://github.com/bortcrab/Ecodle)  
   A Wordle clone built on Python in under 12 hours.
   
