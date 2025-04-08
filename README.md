@@ -4,19 +4,21 @@
 
 <h1 align="center">Hi, I'm Diego</h1>
 
-## 🚀 Proyectos destacados
-- [Clon de Spotify](https://github.com/bortcrab/clon-spotify)  
-  Un clon de la plataforma de música **Spotify**, con autenticación de usuario, gestión de playlists, búsqueda de canciones y más.
+<h2>Pinned Projects 📌</h2>
+- [Bortify](https://github.com/bortcrab/clon-spotify)  
+  A Spotify clone for Bortlovers built on Svelte.
 
-- [Wordle](https://github.com/bortcrab/wordle)  
-  Un clon del popular juego **Wordle**, donde puedes adivinar palabras en un número limitado de intentos.
+- [Ecodle](https://github.com/bortcrab/wordle)  
+  A Wordle cloen built on Python in under 12 hours.
   
+<h2>Stats 📈</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bortcrab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=bortcrab&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bortcrab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h2>Technologies 💡</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
@@ -45,8 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="glsl logo" />
 </div>
 
+
+<h2>Databases 🗃️</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
@@ -55,14 +61,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
 </div>
 
+<h2>Social Media 🌐</h2>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@bortcrab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/bort_crab/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo" />
+  </a>
+  <a href="https://www.twitch.tv/bortcrab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo" />
+  </a>
+  <a href="mailto:bortcrab@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo" />
+  </a>
 </div>
+
 
 <br clear="both">
 
