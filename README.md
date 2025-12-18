@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlodHFhcXRwbGk3am1lNmM0YmxrbWhkcG1lYTZhZTFtOGIxb3cwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4uE6w9G1uK4M/giphy.gif" />
-</div>
-
 <h1 align="center">Hi, I'm Diego</h1>
 
 <h3 align="center">Pinned Projects 📌</h3>
